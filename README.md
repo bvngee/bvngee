@@ -1,14 +1,9 @@
 <h2 align="center">Hi, I'm Jack!</h2>
 
-
-<a href="#">
-  <img align="right" width="40%" height="220px" src="https://github-readme-stats.bvngee.com/top-langs?username=Bvngee&theme=dark&langs_count=10&hide=typst&layout=compact&hide_border=true&bg_color=0D1117" alt="Most used languages">
-</a>
-
 <br />
 
 <p align="center">
-  I'm an aspiring software developer, Linux & neovim user, NixOS addict, and technical Minecrafter.
+  Software developer, Linux & neovim user, NixOS addict. Computer Science student at UC Santa Cruz.
 </p>
 
 <br />
