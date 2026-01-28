@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-  Software developer, Linux & neovim user, NixOS addict. Computer Science student at UC Santa Cruz.
+  I'm a CS/EE student at UC Santa Cruz and Firmware Lead for <a href="https://formulaslug.com">Formula Slug</a>.
 </p>
 
 <br />
