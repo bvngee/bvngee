@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-  I'm a CS/EE student at UC Santa Cruz and Firmware Lead for <a href="https://formulaslug.com">Formula Slug</a>.
+  I'm a CS/EE student at UC Santa Cruz and Electrical Captain for <a href="https://formulaslug.com">Formula Slug</a>.
 </p>
 
 <br />
